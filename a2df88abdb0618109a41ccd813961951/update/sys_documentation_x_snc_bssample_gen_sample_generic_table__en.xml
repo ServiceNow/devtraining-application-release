@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Sample Generic Table" language="en" table="x_snc_bssample_gen_sample_generic_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sample Generic Table</label>
+            <language>en</language>
+            <name>x_snc_bssample_gen_sample_generic_table</name>
+            <plural>Sample Generic Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 15:24:00</sys_created_on>
+            <sys_id>3e005cabdb0618109a41ccd813961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sample Generic Table</sys_name>
+            <sys_package display_value="Sample Repo" source="x_snc_bssample_gen">a2df88abdb0618109a41ccd813961951</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample Repo">a2df88abdb0618109a41ccd813961951</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_bssample_gen_sample_generic_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 15:24:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
